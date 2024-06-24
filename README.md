@@ -1,10 +1,10 @@
 # Gabriel Barros
 
-Also known as... **Gabaweb**.
+Also known as **Gabaweb**
 
-I'm a Senior Salesforce Developer and Architect at [Expanda](https://github.com/expandadigital).
+I'm a Senior Salesforce Developer and Architect at [Expanda](https://github.com/expandadigital)
 
-## I can help you with...
+## I can help you with
 
 [![Salesforce #salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://github.com/topics/salesforce)
 [![Salesforce Apex #apex](https://img.shields.io/badge/Apex-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://github.com/topics/apex)
