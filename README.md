@@ -2,7 +2,7 @@
 
 Also known as **Gabaweb**
 
-I'm a Senior Salesforce Developer and Architect at [3xpnd](https://3xpnd.com)
+I'm a the Software Development Lead @ [3xpnd](https://3xpnd.com)
 
 ## I can help you with
 
