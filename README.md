@@ -2,7 +2,7 @@
 
 Also known as **Gabaweb**
 
-I'm a Software Development Lead @ [3xpnd](https://3xpnd.com)
+I'm the leader of software development at [3xpnd](https://3xpnd.com)
 
 ## I can help you with
 
