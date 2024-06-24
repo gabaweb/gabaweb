@@ -2,7 +2,7 @@
 
 Also known as... **Gabaweb**.
 
-I'm a Senior Salesforce Developer and Architect at [Expand](https://github.com/expandadigital).
+I'm a Senior Salesforce Developer and Architect at [Expanda](https://github.com/expandadigital).
 
 ## I can help you with...
 
