@@ -36,7 +36,7 @@ I'm the leader of software development at [3xpnd](https://3xpnd.com)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://github.com/gabaweb/)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://github.com/gabaweb/)
 
-## My projects...
+## My projects
 
 - [gabaweb/filtrar-vpa-vendido-por-amazon](https://github.com/gabaweb/filtrar-vpa-vendido-por-amazon)
 - [gabaweb/bomdiatudobem.com](https://github.com/gabaweb/bomdiatudobem.com)
