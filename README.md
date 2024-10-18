@@ -1,4 +1,4 @@
-# Gabriel Barros
+# Gabriel Domeneghetti de Barros
 
 Also known as **Gabaweb**
 
