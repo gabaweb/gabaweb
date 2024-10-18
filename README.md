@@ -2,7 +2,7 @@
 
 Also known as **Gabaweb**
 
-I'm the leader of software development at [3xpnd](https://3xpnd.com)
+I'm a Salesforce Consultant, Head of Software Engineering and Partner at [Expanda](https://3xpnd.com)
 
 ## I can help you with
 
