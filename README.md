@@ -1,8 +1,8 @@
-# Gabriel Domeneghetti de Barros
+# Gabaweb
 
-Also known as **Gabaweb**
+Also known as **Gabriel Domeneghetti de Barros**
 
-I'm a Salesforce Consultant, Head of Software Engineering and Partner at [Expanda](https://3xpnd.com)
+I'm a Salesforce Consultant, Head of Software Engineering and Partner at [Expanda](https://expanda.com.br)
 
 ## I can help you with
 
