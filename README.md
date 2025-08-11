@@ -10,7 +10,7 @@ I'm the Head of Software Engineering and Partner at [Expanda](https://expanda.co
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)]
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/Codespaces-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
