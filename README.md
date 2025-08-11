@@ -6,7 +6,7 @@ I'm the Head of Software Engineering and Partner at [Expanda](https://expanda.co
 
 ## I can help you with
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,vite,workers,html,css,sass,bootstrap,postgres,supabase,git,github,gitlab,workers,vercel,sentry,postman,notion,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,vite,workers,html,css,sass,bootstrap,postgres,supabase,git,github,gitlab,workers,vercel,sentry,postman,notion,linux&perline=5)](https://skillicons.dev)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
