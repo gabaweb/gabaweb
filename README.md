@@ -2,11 +2,11 @@
 
 Also known as **Gabriel Domeneghetti de Barros**
 
-I'm the Head of Software Engineering and Partner at [Expanda](https://expanda.com.br) and [Consultar.io](https://consultar.io/)
+I'm the Head of Software Engineering and Partner at [Expanda](https://expanda.com.br) and [Consultar.IO](https://consultar.io/)
 
 ## Projects
 
-- [Consultar.io](https://github.com/consultar-io/)
+- [Consultar.IO](https://github.com/consultar-io/)
 - [Filtrar VPA](https://github.com/gabaweb/filtrar-vpa-vendido-por-amazon)
 
 ## I can help you with
