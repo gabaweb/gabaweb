@@ -2,7 +2,7 @@
 
 Also known as **Gabriel Domeneghetti de Barros**
 
-I'm the Head of Software Engineering and Partner at [Expanda](https://expanda.com.br) and [Consultar.IO](https://consultar.io/)
+I'm a Staff Software Engineer at [Expanda](https://expanda.com.br)
 
 ## Projects
 
